@@ -12,7 +12,7 @@ public class BookSearch {
 		System.out.println("Hello");
 		  Scanner scan = new Scanner(System.in);
 		  //String books="shakespear,LOTR,Startkkdk";
-		  //System.out.println(books.split(",").length);
+		  //System.out.println(books.split(",").lengkiubhikugvujcvigvkjbvkjvbth);
 		    System.out.println("How many Books would you like to enter?");
 		    int n = scan.nextInt();
 		    System.out.println("Enter the " + n + "Book names: ");
